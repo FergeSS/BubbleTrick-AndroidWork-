@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Bubble Trick"
 include(":app")
- 
